@@ -1,0 +1,10 @@
+﻿.site-glow {
+  box-shadow: 0 10px 35px rgba(20, 32, 56, 0.08);
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(11, 35, 64, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(11, 35, 64, 0.06) 1px, transparent 1px);
+  background-size: 22px 22px;
+}

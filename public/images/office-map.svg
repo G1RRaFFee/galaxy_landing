@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
+  <rect width="200" height="200" fill="#FFD07A"/>
+  <rect x="200" width="200" height="200" fill="#8ED2FF"/>
+  <rect y="200" width="400" height="200" fill="#B9F4CC"/>
+  <text x="100" y="108" text-anchor="middle" fill="#1F2937" font-size="20" font-family="Trebuchet MS">Каталог</text>
+  <text x="300" y="108" text-anchor="middle" fill="#1F2937" font-size="20" font-family="Trebuchet MS">Контакты</text>
+  <text x="200" y="305" text-anchor="middle" fill="#1F2937" font-size="24" font-family="Trebuchet MS">Кабинет</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" fill="none">
+  <rect width="900" height="450" fill="#1A4A3A"/>
+  <rect x="45" y="60" width="810" height="330" rx="18" fill="#EEFDF4"/>
+  <rect x="80" y="110" width="280" height="40" rx="8" fill="#F4A261"/>
+  <rect x="80" y="175" width="220" height="180" rx="10" fill="#CDEDD9"/>
+  <rect x="320" y="175" width="220" height="180" rx="10" fill="#D9F3E3"/>
+  <rect x="560" y="175" width="260" height="180" rx="10" fill="#CDEDD9"/>
+  <text x="80" y="92" fill="#FFF" font-size="34" font-family="Trebuchet MS">GALAKTIKA ERP CORE</text>
+</svg>
